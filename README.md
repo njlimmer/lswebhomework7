@@ -5,8 +5,11 @@
 1. Feynman Writing Prompts - Write out explanations of the following concepts like you are explaining it to a 12 year old.  Doing this will help you quickly discover any holes in your understanding.  Ask your questions on Slack.
 		
 	* Array
+        An array is a list of objects.  They can be pretty much anything including letters, words, phrases, numbers, function, or even other arrays.
 	* Object
+        An object is the item within the array.  It what the list is made of.
 	* Method
+        When a function is inside of an array, it's called a method.  So it's just a function, but it's location inside the array makes it a method.
 
 
 3. Fork and clone this repo.  When you need to commit use the following commands.
